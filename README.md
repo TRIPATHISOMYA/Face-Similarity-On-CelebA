@@ -1,4 +1,4 @@
-# Face-Similarity-On-CelebA# Face-Similarity-On-BioID_DB
+# Face-Similarity-On-CelebA
 
 ## Dataset
 
